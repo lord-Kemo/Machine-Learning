@@ -14,7 +14,7 @@ Each project follows this workflow:
 ## 🚀 Projects
 - 🤖Project_1/ - Ecommerce Customers - Analyzed the performance of a company's mobile app vs website and recommended focusing more on the mobile app due to its better performance.
 
--🤖 Project_2/ - Calories Prediction - Implemented a linear regression model to predict calorie consumption based on the given dataset (calories.csv).
+- 🤖 Project_2/ - Calories Prediction - Implemented a linear regression model to predict calorie consumption based on the given dataset (calories.csv).
 
 - 🤖Project_3/ - Iris Flower Classification - Built a classification model using the Support Vector Machine (SVM) algorithm to predict flower species in the Iris dataset, achieving an accuracy of 87%.
 
